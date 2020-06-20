@@ -1,0 +1,644 @@
+{
+	"api": "http.detail.api",
+	"v": "1",
+	"ret": "SUCCESS",
+	"data": {
+		"status": {
+			"code": 1001,
+			"msg": ""
+		},
+		"result": {
+			"liveInfo": {},
+			"userInfo": {
+				"userId": "13wl2hw",
+				"isLogin": false,
+				"isSelf": false,
+				"admin": false,
+				"shopId": "1pasne",
+				"sellerId": "13wl2hw"
+			},
+			"rateLookInfo": {},
+			"rateInfo": {
+				"list": [{
+					"user": {
+						"uname": "周***s",
+						"avatar": "https://s5.mogucdn.com/p1/160105/idid_ifrwenbygrsggntfguzdambqhayde_160x160.jpg",
+						"profileUrl": ""
+					},
+					"rateId": "118lkaw2",
+					"content": "很好看，特别合身，款式新颖，同事们都说好看要链接呢，而且不掉色哦",
+					"created": 1563764365,
+					"isAnonymous": 1,
+					"style": "颜色:图片色 尺码:L ",
+					"isEmpty": 1,
+					"level": "",
+					"canExplain": false,
+					"extraInfo": ["身高: 165 cm", "体重: 45 kg", "是否合身: 合身 "],
+					"isBuyerShow": false,
+					"sizeInfo": {
+						"weight": "45kg",
+						"height": "165cm",
+						"desc": "合身 "
+					}
+				}, {
+					"user": {
+						"uname": "陈三妹199012",
+						"avatar": "https://s5.mogucdn.com/mlcdn/5abf39/190801_85277abcb057big24685fd7486g1h_132x132.jpg",
+						"profileUrl": ""
+					},
+					"rateId": "118pifoc",
+					"content": "衣服收到了很不错，很喜欢，祝老板生意兴隆",
+					"created": 1565021124,
+					"isAnonymous": 0,
+					"style": "颜色:图片色 尺码:L ",
+					"isEmpty": 1,
+					"level": "",
+					"canExplain": false,
+					"isBuyerShow": false
+				}],
+				"cRate": 149,
+				"imgTotal": 18,
+				"rateTags": [{
+					"emotion": "positive",
+					"property": "图片",
+					"value": "有图片",
+					"num": 18,
+					"labelId": 0
+				}, {
+					"emotion": "positive",
+					"property": "款式",
+					"value": "款式好",
+					"num": 9,
+					"labelId": 0
+				}, {
+					"emotion": "positive",
+					"property": "尺码",
+					"value": "尺寸无偏差",
+					"num": 6,
+					"labelId": 0
+				}, {
+					"emotion": "positive",
+					"property": "质量",
+					"value": "质量很好",
+					"num": 6,
+					"labelId": 0
+				}, {
+					"emotion": "positive",
+					"property": "服务",
+					"value": "卖家服务很好",
+					"num": 4,
+					"labelId": 0
+				}, {
+					"emotion": "positive",
+					"property": "做工",
+					"value": "做工不错",
+					"num": 3,
+					"labelId": 0
+				}],
+				"sales": 676
+			},
+			"itemInfo": {
+				"desc": "2019夏季新款韩版翻领单排扣抽绳抹茶绿拼接假两件连衣裙女",
+				"title": "2020夏季新款韩版翻领单排扣抽绳抹茶绿拼接假两件连衣裙女",
+				"itemId": "1mjbll6",
+				"isFaved": false,
+				"isShareIntegral": false,
+				"cFav": 2918,
+				"state": 0,
+				"saleStartTime": 0,
+				"saleType": 0,
+				"seo": {
+					"keywords": "2020夏季新款韩版翻领单排扣抽绳抹茶绿拼接假两件连衣裙女",
+					"wap_url": "//m.mogujie.com/x6/detail/1mjbll6",
+					"description": "来自蘑菇街优店女装_服饰鞋包_连衣裙_裙子家2019夏季新款韩版翻领单排扣抽绳抹茶绿拼接假两件连衣裙女的2020夏季新款韩版翻领单排扣抽绳抹茶绿拼接假两件连衣裙女，发现当季女装和魔菇凉搭配心得。",
+					"alternate": "//m.mogujie.com/x6/detail/1mjbll6",
+					"links": "null",
+					"canonical": "//shop.mogujie.com/detail/1mjbll6",
+					"seo_noindex": "0",
+					"title": "【2020夏季新款韩版翻领单排扣抽绳抹茶绿拼接假两件连衣裙女】-女装-女装_服饰鞋包_连衣裙_裙子-魔菇凉-蘑菇街优店"
+				},
+				"type": 8,
+				"video": {
+					"cover": "https://s5.mogucdn.com/mlcdn/c45406/190715_06i836alhj2ja52la6e58h26figh7_640x960.jpg",
+					"videoId": 1595260,
+					"width": 950,
+					"height": 1280
+				},
+				"priceChannel": 0,
+				"virtualItemType": 0,
+				"isMedicalBeautyVirtualItem": false,
+				"isVirtualCouponItem": false,
+				"isVirtualItem": false,
+				"isJdItem": false,
+				"inSpringFestival": false,
+				"isSpringFestivalShutdownItem": false,
+				"contain30DayDeliveryService": false,
+				"canApplyInstallment": false,
+				"extra": {
+					"sales": 676,
+					"isFreePost": true,
+					"express": "全国包邮",
+					"onSaleTime": 0,
+					"isLiveSeckill": false
+				},
+				"officialRecommend": {},
+				"limitDiscountInfo": {},
+				"lowPrice": "127.15",
+				"highPrice": "127.15",
+				"lowNowPrice": "89.00",
+				"highNowPrice": "89.00",
+				"nowTime": 1590384082,
+				"titleTags": [],
+				"titleTagsV2": [],
+				"picTags": [],
+				"pickforme": {
+					"name": "帮我选",
+					"icon": "https://s10.mogucdn.com/mlcdn/c45406/191218_762ibk3def84blec68cbe4le770df_54x54.png",
+					"link": "https://h5.mogu.com/pickforme/launch/index.html?itemId=1mjbll6&acm=3.mce.1_10_1nh28.143035.0.mXFLHrZYtuOcX.pos_0-m_547572-sd_119",
+					"acm": "3.mce.1_10_1nh28.143035.0.mXFLHrZYtuOcX.pos_0-m_547572-sd_119"
+				}
+			},
+			"platformCoupons": {
+				"bonusCount": 0,
+				"isBonusItem": false
+			},
+			"saleTextInfo": {
+				"name": "slogan"
+			},
+			"priceInfo": {
+				"nowPrice": "89.00",
+				"oldPrice": "127.15",
+				"highNowPrice": "",
+				"priceSplit": "~",
+				"currency": "¥",
+				"priceColor": "#333333",
+				"priceTags": [{
+					"text": "7折",
+					"bgColor": "#FFE8EE",
+					"textColor": "#FF2255"
+				}],
+				"prePriceTag": {
+					"bgColor": "#FFE8EE",
+					"textColor": "#FF2255"
+				},
+				"eventPrice": "",
+				"eventPriceDesc": {
+					"bgColor": "#FFE8EE",
+					"textColor": "#FF2255"
+				},
+				"eventPriceColor": "#FF2255",
+				"eventTags": [],
+				"mobilePrice": "",
+				"mobileDownloadLink": "",
+				"eventDesc": "",
+				"extraDesc": ""
+			},
+			"diamondInfo": {
+				"diamondPrice": "89.00",
+				"normalPrice": "89.00",
+				"state": 3,
+				"currency": "¥",
+				"backgroundImage": "https://s11.mogucdn.com/mlcdn/c45406/170728_2740cc0db684ccfg34i2323gak715_751x81.png",
+				"priceTitle": "限时优惠",
+				"arrowTitle": "豪华黄钻专享价"
+			},
+			"normalCountdown": {
+				"businessType": "",
+				"isWarmUp": false,
+				"nowTime": 1590384082,
+				"countdown": 0,
+				"image": "",
+				"titleColor": "#FFFFFF",
+				"priceColor": "#FFFFFF",
+				"activityBanner": "",
+				"activityBannerLink": "",
+				"titleIcon": "",
+				"isHideRightCountdown": false,
+				"text": "",
+				"isCountdomShow": true,
+				"isPriceShow": false
+			},
+			"shopInfo": {
+				"score": [{
+					"name": "描述相符",
+					"score": 4.74,
+					"isBetter": false
+				}, {
+					"name": "质量满意",
+					"score": 4.74,
+					"isBetter": false
+				}],
+				"services": [{
+					"icon": "https://s11.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+					"name": "延误必赔",
+					"desc": "极速发货、送货保障，若发货时间晚于商家承诺时间或快递派送时间晚于平台标准，可获得延误补贴。"
+				}, {
+					"icon": "https://s11.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+					"name": "退货补运费",
+					"link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=927",
+					"desc": "用户发起退货且绑定提现银行卡，可获6-18元运费补贴"
+				}, {
+					"icon": "https://s11.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+					"name": "全国包邮",
+					"link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=895",
+					"desc": ""
+				}, {
+					"icon": "https://s11.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+					"name": "7天无理由退货",
+					"link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=892",
+					"desc": "物流签收后7天内买家可无理由退货，需满足退货条件"
+				}, {
+					"icon": "https://s11.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+					"name": "72小时发货",
+					"link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=893",
+					"desc": ""
+				}],
+				"categories": [{
+					"name": "热卖新款",
+					"link": "http://shop.mogu.com/1pasne/list/index?categoryId=1305781"
+				}, {
+					"name": "连衣裙系",
+					"link": "http://shop.mogu.com/1pasne/list/index?categoryId=1335474"
+				}, {
+					"name": "上身系",
+					"link": "http://shop.mogu.com/1pasne/list/index?categoryId=1347096"
+				}, {
+					"name": "下身系",
+					"link": "http://shop.mogu.com/1pasne/list/index?categoryId=1347709"
+				}, {
+					"name": "外套系",
+					"link": "http://shop.mogu.com/1pasne/list/index?categoryId=1348813"
+				}, {
+					"name": "新品→【T恤】",
+					"link": "http://shop.mogu.com/1pasne/list/index?categoryId=20178582"
+				}, {
+					"name": "新品→【衬衫】",
+					"link": "http://shop.mogu.com/1pasne/list/index?categoryId=20178583"
+				}, {
+					"name": "新品→【针织衫】",
+					"link": "http://shop.mogu.com/1pasne/list/index?categoryId=20178584"
+				}, {
+					"name": "新品→【牛仔裤】",
+					"link": "http://shop.mogu.com/1pasne/list/index?categoryId=20178592"
+				}, {
+					"name": "新品→【休闲裤】",
+					"link": "http://shop.mogu.com/1pasne/list/index?categoryId=20178593"
+				}, {
+					"name": "新品→【半身裙】",
+					"link": "http://shop.mogu.com/1pasne/list/index?categoryId=20178595"
+				}, {
+					"name": "新品→【飘逸长裙】",
+					"link": "http://shop.mogu.com/1pasne/list/index?categoryId=20178596"
+				}, {
+					"name": "新品→【牛仔外套】",
+					"link": "http://shop.mogu.com/1pasne/list/index?categoryId=20178597"
+				}, {
+					"name": "新品→【毛呢外套】",
+					"link": "http://shop.mogu.com/1pasne/list/index?categoryId=20178598"
+				}, {
+					"name": "新品→【棒球外套】",
+					"link": "http://shop.mogu.com/1pasne/list/index?categoryId=20178599"
+				}, {
+					"name": "新品→【马甲夹克】",
+					"link": "http://shop.mogu.com/1pasne/list/index?categoryId=20178600"
+				}, {
+					"name": "新品→【百搭打底】",
+					"link": "http://shop.mogu.com/1pasne/list/index?categoryId=20178601"
+				}, {
+					"name": "新品→【卫衣】",
+					"link": "http://shop.mogu.com/1pasne/list/index?categoryId=20178606"
+				}, {
+					"name": "套装系",
+					"link": "http://shop.mogu.com/1pasne/list/index?categoryId=20178633"
+				}, {
+					"name": "新品→【衣裙套装】",
+					"link": "http://shop.mogu.com/1pasne/list/index?categoryId=20178634"
+				}, {
+					"name": "新品→【衣裤套装】",
+					"link": "http://shop.mogu.com/1pasne/list/index?categoryId=20178635"
+				}, {
+					"name": "新品→【衣衣套装】",
+					"link": "http://shop.mogu.com/1pasne/list/index?categoryId=20178637"
+				}, {
+					"name": "新品→【羽绒服】",
+					"link": "http://shop.mogu.com/1pasne/list/index?categoryId=20237795"
+				}, {
+					"name": "新品→【防晒衣】",
+					"link": "http://shop.mogu.com/1pasne/list/index?categoryId=20239724"
+				}],
+				"cFans": "60168",
+				"cSells": "21.7万",
+				"isMarked": false,
+				"cGoods": 202,
+				"userId": "13wl2hw",
+				"shopLogo": "https://s5.mogucdn.com/mlcdn/c45406/170824_5l6lj02k6e11h83eaike8349gb1l9_200x200.jpg",
+				"name": "魔菇凉",
+				"shopId": "1pasne",
+				"type": 1,
+				"level": 3,
+				"levelDescV2": "推荐指数",
+				"shopUrl": "//m.mogu.com/v8/meili/shop?shopid=1pasne",
+				"saleDesc": "在架商品 ",
+				"saleDescV2": "在架商品 202",
+				"shopLabels": [{
+					"id": 201,
+					"text": "6.0万人关注"
+				}, {
+					"id": 303,
+					"text": "累计销量21.6万+"
+				}, {
+					"id": 602,
+					"text": "3年老字号"
+				}],
+				"dynShopLabels": [],
+				"shopLabelPriority": "101,102,201,301,302,303,401,402,501,502,601,602",
+				"isHideShop": false
+			},
+			"preSaleInfo": "",
+			"detailInfo": {
+				"splitDetailImage": true,
+				"desc": "2019夏季新款韩版翻领单排扣抽绳抹茶绿拼接假两件连衣裙女",
+				"detailImage": [{
+					"desc": "",
+					"key": "穿着效果",
+					"anchor": "model_img",
+					"list": ["https://s11.mogucdn.com/mlcdn/c45406/190715_133kf6dd07lifi7fa200a1a5d8f37_750x1618.jpg", "https://s11.mogucdn.com/mlcdn/c45406/190715_5ai9jb389dde6i3jgieeelf6ghga1_750x750.jpg", "https://s11.mogucdn.com/mlcdn/c45406/190715_1c2h0ege2l99l5hcck24j5hif5c59_750x1608.jpg", "https://s5.mogucdn.com/mlcdn/c45406/190715_038k7b4jfc3jb3kag65k78el9fa89_750x1589.jpg", "https://s11.mogucdn.com/mlcdn/c45406/190715_07922k881jagj1j2c2bbhaf82j4eh_750x1583.jpg", "https://s5.mogucdn.com/mlcdn/c45406/190715_2e9kgl90k4e97i41a9jahfk487e38_750x1823.jpg", "https://s5.mogucdn.com/mlcdn/c45406/190715_6c9fi947a7010deg96d64256hf12f_750x1576.jpg", "https://s5.mogucdn.com/mlcdn/c45406/190715_04bb9c47kb3lj2af1iklic0148elj_750x1582.jpg", "https://s5.mogucdn.com/mlcdn/c45406/190715_3g93fedec0khge7230cc38f774d4h_750x1596.jpg", "https://s5.mogucdn.com/mlcdn/c45406/190715_3h4af6h3921j54jjh0042b6k2k0lh_750x2025.jpg", "https://s5.mogucdn.com/mlcdn/c45406/190715_16a9g24646k019822k587lfjd144j_750x1996.jpg", "https://s11.mogucdn.com/mlcdn/c45406/190715_5d6e7a634ii18g55208fb528h8hl9_750x2069.jpg", "https://s5.mogucdn.com/mlcdn/c45406/190715_1chj10946h9f180kcja540j1972gh_750x2040.jpg", "https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png"]
+				}]
+			},
+			"countdownInfo": {
+				"businessType": "NORMAL",
+				"isWarmUp": false,
+				"nowTime": 1590384082,
+				"countdown": 0,
+				"image": "",
+				"titleColor": "#FFFFFF",
+				"priceColor": "#FFFFFF",
+				"activityBanner": "",
+				"activityBannerLink": "",
+				"titleIcon": "",
+				"isHideRightCountdown": false,
+				"text": "",
+				"isCountdomShow": true,
+				"isPriceShow": false
+			},
+			"topImages": ["https://s11.mogucdn.com/mlcdn/c45406/190715_824322gj7f4i22eah93kfckl99gdi_640x960.jpg", "https://s5.mogucdn.com/mlcdn/c45406/190715_0h4l6c1e0914kg5bki0fk3al87kfe_640x960.jpg", "https://s11.mogucdn.com/mlcdn/c45406/190715_78cb3fdg2efig87k1g25i58adjl8c_640x960.jpg", "https://s11.mogucdn.com/mlcdn/c45406/190715_68kg6li42if4202c009gkhgjec32j_640x960.jpg", "https://s11.mogucdn.com/mlcdn/c45406/190715_469306cddf4c1l75laak96i5c8ghd_640x960.jpg"],
+			"normalShareInfo": {
+				"title": "2020夏季新款韩版翻领单排扣抽绳抹茶绿拼接假两件连衣裙女",
+				"content": "亲爱的～这件宝贝不错哦，快进来看看吧～",
+				"url": "//h5.mogu.com/detail-normal/index.html?itemId=1mjbll6&from=share",
+				"imageUrl": "https://s11.mogucdn.com/mlcdn/c45406/190715_824322gj7f4i22eah93kfckl99gdi_640x960.jpg"
+			},
+			"itemParams": {
+				"info": {
+					"set": {
+						"图案": "色块",
+						"裙型": "其他",
+						"颜色": "图片色",
+						"开衩": "无开衩",
+						"袖型": "其他袖型",
+						"衣门襟": "单排扣",
+						"摆型": "常规",
+						"腰型": "高腰",
+						"尺码": "S,XL,L,M",
+						"版型": "收腰",
+						"季节": "夏季",
+						"材质": "棉",
+						"组合形式": "假两件",
+						"领型": "POLO领",
+						"元素": "面料拼接,抽绳",
+						"裙长": "短裙（76-90cm）",
+						"袖长": "五分袖（中袖）",
+						"风格": "甜美",
+						"潮流": "韩系"
+					},
+					"key": "产品参数",
+					"anchor": "product_info"
+				},
+				"rule": {
+					"tables": [
+						[
+							["尺码", "裙长", "肩宽", "胸围", "袖长"],
+							["S", "85", "40", "104", "40"],
+							["M", "86", "41", "108", "41"],
+							["L", "87", "42", "112", "42"],
+							["XL", "88", "43", "116", "43"]
+						]
+					],
+					"key": "尺码说明",
+					"anchor": "size_info",
+					"disclaimer": "※ 以上尺寸为实物人工测量，因测量方式不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。"
+				}
+			},
+			"normalPrice": {
+				"nowPrice": "89.00",
+				"oldPrice": "127.15",
+				"highNowPrice": "",
+				"priceSplit": "~",
+				"currency": "¥",
+				"priceColor": "#333333",
+				"priceTags": [{
+					"text": "7折",
+					"bgColor": "#FFE8EE",
+					"textColor": "#FF2255"
+				}],
+				"prePriceTag": {
+					"bgColor": "#FFE8EE",
+					"textColor": "#FF2255"
+				},
+				"eventPrice": "",
+				"eventPriceDesc": {
+					"bgColor": "#FFE8EE",
+					"textColor": "#FF2255"
+				},
+				"eventPriceColor": "#FF2255",
+				"eventTags": [],
+				"mobilePrice": "",
+				"mobileDownloadLink": "",
+				"eventDesc": "",
+				"extraDesc": ""
+			},
+			"itemServices": {
+				"services": [{
+					"name": "72小时发货",
+					"icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+					"content": "",
+					"link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=893"
+				}, {
+					"name": "7天无理由退货",
+					"icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+					"content": "物流签收后7天内买家可无理由退货，需满足退货条件",
+					"link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=892"
+				}, {
+					"name": "延误必赔",
+					"icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+					"content": "极速发货、送货保障，若发货时间晚于商家承诺时间或快递派送时间晚于平台标准，可获得延误补贴。"
+				}, {
+					"name": "退货补运费",
+					"icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+					"content": "用户发起退货且绑定提现银行卡，可获6-18元运费补贴",
+					"link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=927"
+				}, {
+					"name": "白付美分期购",
+					"icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+					"content": "白付美分期购：在我的钱包 →白付美页面开通即可使用分期购。本月消费，分3/6/12期还款，每月只还一点点，轻松享受大牌好货。（分12期只对部分用户开放。）"
+				}, {
+					"name": "全国包邮",
+					"icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+					"content": "",
+					"link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=895"
+				}],
+				"columns": [{
+					"name": "sales",
+					"desc": "销量 676",
+					"icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+				}, {
+					"name": "express",
+					"desc": "免邮费",
+					"icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+				}]
+			},
+			"skuInfo": {
+				"itemId": "1mjbll6",
+				"img": "https://s11.mogucdn.com/mlcdn/c45406/190715_824322gj7f4i22eah93kfckl99gdi_640x960.jpg",
+				"isJdItem": false,
+				"title": "2020夏季新款韩版翻领单排扣抽绳抹茶绿拼接假两件连衣裙女",
+				"skus": [{
+					"stockId": "11aqpzqa",
+					"xdSkuId": "11aqpzqa",
+					"price": 12715,
+					"nowprice": 8900,
+					"img": "https://s11.mogucdn.com/mlcdn/c45406/190715_7efg06k0k7h66e487gl8g5jch6lg7_640x960.jpg",
+					"currency": "¥",
+					"stock": 796,
+					"style": "图片色",
+					"color": "",
+					"size": "S",
+					"styleId": 1,
+					"sizeId": 100,
+					"insuranceMap": {
+						"10": [{
+							"skuId": 1413163381,
+							"actualPrice": 8900,
+							"insuranceCode": 10,
+							"insurancePrice": 445,
+							"sellerUserId": 442921819
+						}]
+					}
+				}, {
+					"stockId": "11aqpzqc",
+					"xdSkuId": "11aqpzqc",
+					"price": 12715,
+					"nowprice": 8900,
+					"img": "https://s11.mogucdn.com/mlcdn/c45406/190715_7efg06k0k7h66e487gl8g5jch6lg7_640x960.jpg",
+					"currency": "¥",
+					"stock": 753,
+					"style": "图片色",
+					"color": "",
+					"size": "M",
+					"styleId": 1,
+					"sizeId": 101,
+					"insuranceMap": {
+						"10": [{
+							"skuId": 1413163382,
+							"actualPrice": 8900,
+							"insuranceCode": 10,
+							"insurancePrice": 445,
+							"sellerUserId": 442921819
+						}]
+					}
+				}, {
+					"stockId": "11aqpzqe",
+					"xdSkuId": "11aqpzqe",
+					"price": 12715,
+					"nowprice": 8900,
+					"img": "https://s11.mogucdn.com/mlcdn/c45406/190715_7efg06k0k7h66e487gl8g5jch6lg7_640x960.jpg",
+					"currency": "¥",
+					"stock": 767,
+					"style": "图片色",
+					"color": "",
+					"size": "L",
+					"styleId": 1,
+					"sizeId": 102,
+					"insuranceMap": {
+						"10": [{
+							"skuId": 1413163383,
+							"actualPrice": 8900,
+							"insuranceCode": 10,
+							"insurancePrice": 445,
+							"sellerUserId": 442921819
+						}]
+					}
+				}, {
+					"stockId": "11aqpzqg",
+					"xdSkuId": "11aqpzqg",
+					"price": 12715,
+					"nowprice": 8900,
+					"img": "https://s11.mogucdn.com/mlcdn/c45406/190715_7efg06k0k7h66e487gl8g5jch6lg7_640x960.jpg",
+					"currency": "¥",
+					"stock": 815,
+					"style": "图片色",
+					"color": "",
+					"size": "XL",
+					"styleId": 1,
+					"sizeId": 103,
+					"insuranceMap": {
+						"10": [{
+							"skuId": 1413163384,
+							"actualPrice": 8900,
+							"insuranceCode": 10,
+							"insurancePrice": 445,
+							"sellerUserId": 442921819
+						}]
+					}
+				}],
+				"props": [{
+					"label": "颜色",
+					"list": [{
+						"default": false,
+						"styleId": 1,
+						"name": "图片色",
+						"index": 1,
+						"type": "style"
+					}],
+					"isDefault": false
+				}, {
+					"label": "尺码",
+					"list": [{
+						"sizeId": 100,
+						"default": false,
+						"name": "S",
+						"index": 100,
+						"type": "size"
+					}, {
+						"sizeId": 101,
+						"default": false,
+						"name": "M",
+						"index": 101,
+						"type": "size"
+					}, {
+						"sizeId": 102,
+						"default": false,
+						"name": "L",
+						"index": 102,
+						"type": "size"
+					}, {
+						"sizeId": 103,
+						"default": false,
+						"name": "XL",
+						"index": 103,
+						"type": "size"
+					}],
+					"isDefault": false
+				}],
+				"styleKey": "颜色",
+				"sizeKey": "尺码",
+				"priceRange": "¥89.00",
+				"defaultPrice": "¥89.00",
+				"totalStock": 3131,
+				"canInstallment": false,
+				"addressInfo": {}
+			}
+		}
+	},
+	"needHeaderCookie": false
+}

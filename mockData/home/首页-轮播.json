@@ -1,0 +1,74 @@
+{
+	"data": {
+		"140378": {
+			"context": {
+				"currentTime": 1590376834
+			},
+			"isEnd": true,
+			"list": [{
+				"link": "//act.mogu.com/gzwyn525?acm=3.mce.1_10_1ov38.140378.0.yd34nrZXZ7srk.pos_0-m_579990-sd_119",
+				"_material_end_time": 1590422400,
+				"acm": "3.mce.1_10_1ov38.140378.0.yd34nrZXZ7srk.pos_0-m_579990-sd_119",
+				"title": "\u6E2F\u4ED4\u6587\u827A\u7537\u4E13\u573A",
+				"marketId": 7,
+				"startTime": 1590336000,
+				"beginTime": 1590336000,
+				"finishTime": 1590508800,
+				"_material_start_time": 1590336000,
+				"sort": 1,
+				"image_800": "https://s5.mogucdn.com/mlcdn/c45406/200521_054bdka1685jkfkib53bhc86c9h61_1125x390.jpg",
+				"endTime": 1590422400,
+				"_system_record_entry_id": "579990"
+			}, {
+				"link": "//act.mogu.com/mzsl0525?acm=3.mce.1_10_1ov3a.140378.0.yd34nrZXZ7srl.pos_1-m_579991-sd_119",
+				"_material_end_time": 1590422400,
+				"acm": "3.mce.1_10_1ov3a.140378.0.yd34nrZXZ7srl.pos_1-m_579991-sd_119",
+				"title": "\u6885\u5B50\u719F\u4E86\u4E13\u573A",
+				"marketId": 0,
+				"promotionCacheMode": "",
+				"startTime": 1590336000,
+				"beginTime": 1590336000,
+				"promotionImg": "",
+				"finishTime": 1590508800,
+				"_material_start_time": 1590336000,
+				"sort": 2,
+				"image_800": "https://s11.mogucdn.com/mlcdn/c45406/200524_1b4fba8iehgg34ih5f6k7l0f3d90l_1125x390.jpg",
+				"endTime": 1590422400,
+				"_system_record_entry_id": "579991"
+			}, {
+				"link": "//act.mogu.com/fsyzc?acm=3.mce.1_10_1ov3c.140378.0.yd34nrZXZ7srm.pos_2-m_579992-sd_119",
+				"_material_end_time": 1590422400,
+				"acm": "3.mce.1_10_1ov3c.140378.0.yd34nrZXZ7srm.pos_2-m_579992-sd_119",
+				"title": "\u51B0\u4E1D\u9632\u6652\u4E13\u573A",
+				"marketId": 18,
+				"startTime": 1590336000,
+				"beginTime": 1590336000,
+				"finishTime": 1590595200,
+				"_material_start_time": 1590336000,
+				"sort": 3,
+				"image_800": "https://s11.mogucdn.com/mlcdn/c45406/200522_1b7jag6a3j914138hk2h50k05h5fd_1125x390.jpg",
+				"endTime": 1590422400,
+				"_system_record_entry_id": "579992"
+			}, {
+				"link": "//act.mogu.com/zxh524?acm=3.mce.1_10_1ov3e.140378.0.yd34nrZXZ7srn.pos_3-m_579993-sd_119",
+				"_material_end_time": 1590422400,
+				"acm": "3.mce.1_10_1ov3e.140378.0.yd34nrZXZ7srn.pos_3-m_579993-sd_119",
+				"title": "\u5468\u5FAA\u73AF\u5973\u88C5\u4E13\u573A",
+				"marketId": 18,
+				"promotionCacheMode": "",
+				"startTime": 1590336000,
+				"beginTime": 1590249600,
+				"promotionImg": "",
+				"finishTime": 1590422400,
+				"_material_start_time": 1590336000,
+				"sort": 4,
+				"image_800": "https://s10.mogucdn.com/mlcdn/c45406/200523_45eb70a5j5689b671iej5j8fjjlf5_1125x390.png",
+				"endTime": 1590422400,
+				"_system_record_entry_id": "579993"
+			}],
+			"nextPage": 1
+		}
+	},
+	"returnCode": "SUCCESS",
+	"success": true
+}

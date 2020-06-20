@@ -1,0 +1,590 @@
+{
+	"api": "http.detail.api",
+	"v": "1",
+	"ret": "SUCCESS",
+	"data": {
+		"status": {
+			"code": 1001,
+			"msg": ""
+		},
+		"result": {
+			"liveInfo": {},
+			"userInfo": {
+				"userId": "12gstx0",
+				"isLogin": false,
+				"isSelf": false,
+				"admin": false,
+				"shopId": "14qve",
+				"sellerId": "12gstx0"
+			},
+			"rateLookInfo": {},
+			"rateInfo": {
+				"list": [{
+					"user": {
+						"uname": "wx_700sx7a6zqkf0",
+						"avatar": "https://s5.mogucdn.com/mlcdn/5abf39/171014_868a6dec99c63kd1jjgfcfbiekgj8_640x640.jpg",
+						"profileUrl": ""
+					},
+					"rateId": "1192lf2q",
+					"content": "这一身很大气，裙子长度很合适，休闲显瘦，质量真的好，还这么好看",
+					"created": 1569723443,
+					"isAnonymous": 0,
+					"style": "颜色:黑色连衣裙 尺码:S ",
+					"isEmpty": 1,
+					"explain": "[商家回复]:谢谢小仙女百忙之中抽空出来给我们一个评价哇，很高兴您满意我们家的宝贝，愿风吹起如花般破碎的流年，而你的笑容摇晃摇晃，步伐轻跃跳动，成为我宝途中最美的点缀，表白美美哒小仙女~您的肯定就是对我们最大的支持和鼓励，您的建议也时刻指引着我们向更高的标准前进，为了达到你们的更高要求，我们时刻不断的改正自己，不断的完善自己，这也是对我们可爱的小仙女最大的回报。我们时刻会记得你们对我们的支持，希望你也记得我在时刻期待你的再次光临~交易虽然结束，但服务才刚开始，虽然我们不能万分肯定宝贝百分百不出问题，但我们会保证百分百解决问题!我们会用100%的诚心，100%的服务换取您200%的满意，温暖知己在，蓝颜难觅。我一直在这里等你。^-^不断的寻寻觅觅，似水流年，且行且记且珍惜，愿每一件美好的宝贝都会有你的身影，因为这是一生中美好的瞬间，很美，我们相遇更美。褪尽风华，我依然在这里等你。^-^也希望能得到小仙女您的继续关注哦感谢小仙女百忙之中抽空出来给我们一个评价哇，很高兴您满意我们家的宝贝，愿风吹起如花般破碎的流年，而你的笑容摇晃摇晃，步伐轻跃跳动，成为我宝途中最美的点缀，表白美美哒小仙女~您的肯定就是对我们最大的支持和鼓励，您的建议也时刻指引着我们向更高的标准前进，为了达到你们的更高要求，我们时刻不断的改正自己，不断的完善自己，这也是对我们可爱的小仙女最大的回报。我们时刻会记得你们对我们的支持，希望你也记得我在时刻期待你的再次光临~交易虽然结束，但服务才刚开始，虽然我们不能万分肯定宝贝百分百不出问题，但我们会保证百分百解决问题!我们会用100%的诚心，100%的服务换取您200%的满意，温暖知己在，蓝颜难觅。我一直在这里等你。^-^不断的寻寻觅觅，似水流年，且行且记且珍惜，愿每一件美好的宝贝都会有你的身影，因为这是一生中美好的瞬间，很美，我们相遇更美。褪尽风华，我依然在这里等你。^-^也希望能得到小仙女您的继续关注哦",
+					"level": "",
+					"canExplain": false,
+					"extraInfo": ["身高: 165 cm", "体重: 45 kg", "是否合身: 合身 "],
+					"isBuyerShow": false,
+					"sizeInfo": {
+						"weight": "45kg",
+						"height": "165cm",
+						"desc": "合身 "
+					}
+				}, {
+					"user": {
+						"uname": "简***伽",
+						"avatar": "https://s5.mogucdn.com/p1/160105/idid_ifrwenbygrsggntfguzdambqhayde_160x160.jpg",
+						"profileUrl": ""
+					},
+					"rateId": "119kvkbq",
+					"content": "超级显瘦，很合身，内搭外穿都可以，价格实惠。",
+					"created": 1574580651,
+					"isAnonymous": 1,
+					"style": "颜色:黑色连衣裙 尺码:M ",
+					"isEmpty": 1,
+					"level": "",
+					"canExplain": false,
+					"extraInfo": ["身高: 160 cm", "体重: 50 kg", "是否合身: 偏小 "],
+					"isBuyerShow": false,
+					"sizeInfo": {
+						"weight": "50kg",
+						"height": "160cm",
+						"desc": "偏小 "
+					}
+				}],
+				"cRate": 764,
+				"imgTotal": 42,
+				"rateTags": [{
+					"emotion": "positive",
+					"property": "图片",
+					"value": "有图片",
+					"num": 42,
+					"labelId": 0
+				}, {
+					"emotion": "positive",
+					"property": "款式",
+					"value": "款式好",
+					"num": 31,
+					"labelId": 0
+				}, {
+					"emotion": "positive",
+					"property": "性价比",
+					"value": "性价比高",
+					"num": 12,
+					"labelId": 0
+				}, {
+					"emotion": "positive",
+					"property": "质量",
+					"value": "质量很好",
+					"num": 10,
+					"labelId": 0
+				}, {
+					"emotion": "positive",
+					"property": "尺码",
+					"value": "尺寸无偏差",
+					"num": 9,
+					"labelId": 0
+				}, {
+					"emotion": "negative",
+					"property": "厚度",
+					"value": "有点薄",
+					"num": 7,
+					"labelId": 0
+				}],
+				"sales": 3344
+			},
+			"itemInfo": {
+				"desc": "拍下即送运费险，购物更保证拍下即送运费险，购物更保证",
+				"title": "闪亮黑色针织连衣裙2020春季新款中长款过膝后开叉长袖打底裙",
+				"itemId": "1ml5fas",
+				"isFaved": false,
+				"isShareIntegral": false,
+				"cFav": 5187,
+				"state": 0,
+				"saleStartTime": 0,
+				"saleType": 0,
+				"seo": {
+					"keywords": "闪亮黑色针织连衣裙2020春季新款中长款过膝后开叉长袖打底裙",
+					"wap_url": "//m.mogujie.com/x6/detail/1ml5fas",
+					"description": "来自蘑菇街优店女装_服饰鞋包_连衣裙_裙子家拍下即送运费险，购物更保证拍下即送运费险，购物更保证的闪亮黑色针织连衣裙2020春季新款中长款过膝后开叉长袖打底裙，发现当季女装和梦幻美伊搭配心得。",
+					"alternate": "//m.mogujie.com/x6/detail/1ml5fas",
+					"links": "null",
+					"canonical": "//shop.mogujie.com/detail/1ml5fas",
+					"seo_noindex": "0",
+					"title": "【闪亮黑色针织连衣裙2020春季新款中长款过膝后开叉长袖打底裙】-女装-女装_服饰鞋包_连衣裙_裙子-梦幻美伊-蘑菇街优店"
+				},
+				"type": 8,
+				"priceChannel": 0,
+				"virtualItemType": 0,
+				"isMedicalBeautyVirtualItem": false,
+				"isVirtualCouponItem": false,
+				"isVirtualItem": false,
+				"isJdItem": false,
+				"inSpringFestival": false,
+				"isSpringFestivalShutdownItem": false,
+				"contain30DayDeliveryService": false,
+				"canApplyInstallment": false,
+				"extra": {
+					"sales": 3344,
+					"isFreePost": true,
+					"express": "全国包邮",
+					"onSaleTime": 0,
+					"isLiveSeckill": false
+				},
+				"officialRecommend": {},
+				"limitDiscountInfo": {},
+				"lowPrice": "170.00",
+				"highPrice": "170.00",
+				"lowNowPrice": "49.99",
+				"highNowPrice": "49.99",
+				"nowTime": 1590384200,
+				"titleTags": [],
+				"titleTagsV2": [],
+				"picTags": [],
+				"pickforme": {
+					"name": "帮我选",
+					"icon": "https://s10.mogucdn.com/mlcdn/c45406/191218_762ibk3def84blec68cbe4le770df_54x54.png",
+					"link": "https://h5.mogu.com/pickforme/launch/index.html?itemId=1ml5fas&acm=3.mce.1_10_1nh28.143035.0.mXFLHrZYtZIlt.pos_0-m_547572-sd_119",
+					"acm": "3.mce.1_10_1nh28.143035.0.mXFLHrZYtZIlt.pos_0-m_547572-sd_119"
+				}
+			},
+			"platformCoupons": {
+				"bonusCount": 0,
+				"isBonusItem": false
+			},
+			"saleTextInfo": {
+				"name": "slogan"
+			},
+			"priceInfo": {
+				"nowPrice": "49.99",
+				"oldPrice": "170.00",
+				"highNowPrice": "",
+				"priceSplit": "~",
+				"currency": "¥",
+				"priceColor": "#333333",
+				"priceTags": [{
+					"text": "特惠中",
+					"bgColor": "#FFE8EE",
+					"textColor": "#FF2255"
+				}],
+				"prePriceTag": {
+					"bgColor": "#FFE8EE",
+					"textColor": "#FF2255"
+				},
+				"eventPrice": "",
+				"eventPriceDesc": {
+					"bgColor": "#FFE8EE",
+					"textColor": "#FF2255"
+				},
+				"eventPriceColor": "#FF2255",
+				"eventTags": [],
+				"mobilePrice": "",
+				"mobileDownloadLink": "",
+				"eventDesc": "",
+				"extraDesc": ""
+			},
+			"diamondInfo": {
+				"diamondPrice": "49.99",
+				"normalPrice": "49.99",
+				"state": 3,
+				"currency": "¥",
+				"backgroundImage": "https://s11.mogucdn.com/mlcdn/c45406/170728_2740cc0db684ccfg34i2323gak715_751x81.png",
+				"priceTitle": "限时优惠",
+				"arrowTitle": "豪华黄钻专享价"
+			},
+			"normalCountdown": {
+				"businessType": "",
+				"isWarmUp": false,
+				"nowTime": 1590384200,
+				"countdown": 0,
+				"image": "",
+				"titleColor": "#FFFFFF",
+				"priceColor": "#FFFFFF",
+				"activityBanner": "",
+				"activityBannerLink": "",
+				"titleIcon": "",
+				"isHideRightCountdown": false,
+				"text": "",
+				"isCountdomShow": true,
+				"isPriceShow": false
+			},
+			"shopInfo": {
+				"score": [{
+					"name": "描述相符",
+					"score": 4.61,
+					"isBetter": false
+				}, {
+					"name": "质量满意",
+					"score": 4.61,
+					"isBetter": false
+				}],
+				"services": [{
+					"icon": "https://s11.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+					"name": "延误必赔",
+					"desc": "极速发货、送货保障，若发货时间晚于商家承诺时间或快递派送时间晚于平台标准，可获得延误补贴。"
+				}, {
+					"icon": "https://s11.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+					"name": "退货补运费",
+					"link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=927",
+					"desc": "用户发起退货且绑定提现银行卡，可获6-18元运费补贴"
+				}, {
+					"icon": "https://s11.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+					"name": "全国包邮",
+					"link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=895",
+					"desc": ""
+				}, {
+					"icon": "https://s11.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+					"name": "7天无理由退货",
+					"link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=892",
+					"desc": "物流签收后7天内买家可无理由退货，需满足退货条件"
+				}, {
+					"icon": "https://s11.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+					"name": "72小时发货",
+					"link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=893",
+					"desc": ""
+				}],
+				"categories": [{
+					"name": "T恤/卫衣/打底衫",
+					"link": "http://shop.mogu.com/14qve/list/index?categoryId=25700"
+				}, {
+					"name": "裤子",
+					"link": "http://shop.mogu.com/14qve/list/index?categoryId=25703"
+				}, {
+					"name": "连衣裙/半身裙",
+					"link": "http://shop.mogu.com/14qve/list/index?categoryId=58668"
+				}, {
+					"name": "时尚套装",
+					"link": "http://shop.mogu.com/14qve/list/index?categoryId=69068"
+				}, {
+					"name": "蕾丝/雪纺/衬衫",
+					"link": "http://shop.mogu.com/14qve/list/index?categoryId=20363245"
+				}, {
+					"name": "风衣/棉衣/毛呢",
+					"link": "http://shop.mogu.com/14qve/list/index?categoryId=20363246"
+				}, {
+					"name": "针织/毛衣",
+					"link": "http://shop.mogu.com/14qve/list/index?categoryId=20363247"
+				}, {
+					"name": "牛仔外套/棒球服",
+					"link": "http://shop.mogu.com/14qve/list/index?categoryId=20363248"
+				}],
+				"cFans": "19509",
+				"cSells": "23.5万",
+				"isMarked": false,
+				"cGoods": 379,
+				"userId": "12gstx0",
+				"shopLogo": "https://s11.mogucdn.com/b7/pic/160317/18eexq_ifqtkyjwgjsgenzvg4zdambqgyyde_320x320.jpg",
+				"name": "梦幻美伊",
+				"shopId": "14qve",
+				"type": 1,
+				"level": 3,
+				"levelDescV2": "推荐指数",
+				"shopUrl": "//m.mogu.com/v8/meili/shop?shopid=14qve",
+				"saleDesc": "在架商品 ",
+				"saleDescV2": "在架商品 379",
+				"shopLabels": [{
+					"id": 201,
+					"text": "1.9万人关注"
+				}, {
+					"id": 303,
+					"text": "累计销量23.4万+"
+				}, {
+					"id": 601,
+					"text": "5年金招牌"
+				}],
+				"dynShopLabels": [],
+				"shopLabelPriority": "101,102,201,301,302,303,401,402,501,502,601,602",
+				"isHideShop": false
+			},
+			"preSaleInfo": "",
+			"detailInfo": {
+				"splitDetailImage": false,
+				"desc": "拍下即送运费险，购物更保证拍下即送运费险，购物更保证",
+				"detailImage": [{
+					"desc": "",
+					"key": "穿着效果",
+					"anchor": "model_img",
+					"list": ["https://s11.mogucdn.com/mlcdn/c45406/190920_19g9g9ffb2308dgfbif900jldd1je_750x245.jpg", "https://s11.mogucdn.com/mlcdn/c45406/190920_46lc719l80ae6j39gg34acick56ie_750x246.jpg", "https://s11.mogucdn.com/mlcdn/c45406/190920_011f6079gbkf62c9c6ki11ai5h05b_750x245.jpg", "https://s11.mogucdn.com/mlcdn/c45406/190920_55la39digk8edbbhkhflkd6g5h94g_750x245.jpg", "https://s5.mogucdn.com/mlcdn/c45406/190920_2625hd2k7f20g1ke546el47i0h8he_750x277.jpg", "https://s5.mogucdn.com/mlcdn/c45406/190920_8ajdc9863g4a2db00ja2b27dc1cij_750x277.jpg", "https://s11.mogucdn.com/mlcdn/c45406/190920_1ie0icj0643id2jih9chg34a4a76d_750x276.jpg", "https://s11.mogucdn.com/mlcdn/c45406/190920_442jbk9b1jcedl5d306ke43c0d9gf_750x277.jpg", "https://s5.mogucdn.com/mlcdn/c45406/190920_7ghhjkjkej1fe6gb9b80ih4ae3d4c_750x268.jpg", "https://s5.mogucdn.com/mlcdn/c45406/190920_3l00e81aij3f12ab6b66c42617bc2_750x268.jpg", "https://s5.mogucdn.com/mlcdn/c45406/190920_4ekbifij682flf4ha285gc15846li_750x267.jpg", "https://s11.mogucdn.com/mlcdn/c45406/190920_40fb5dcjj7612l4c6ak0ac9el8ajc_750x268.jpg", "https://s5.mogucdn.com/mlcdn/c45406/190920_2g6530c89638c8ki04k925380kc68_750x261.jpg", "https://s11.mogucdn.com/mlcdn/c45406/190920_5bb18ggi4hk3bli5g258l2bah14ac_750x261.jpg", "https://s11.mogucdn.com/mlcdn/c45406/190920_6kdi860g66b69je9fec2ilah3kk0b_750x261.jpg", "https://s11.mogucdn.com/mlcdn/c45406/190920_1954c17ak8105jed25j2f122jagde_750x261.jpg", "https://s5.mogucdn.com/mlcdn/c45406/190920_5dj18f8i231e9ieelj7cbck0ijkd1_750x250.jpg", "https://s5.mogucdn.com/mlcdn/c45406/190920_4ldd9f91k16bjb5i289ghledegc4l_750x251.jpg", "https://s11.mogucdn.com/mlcdn/c45406/190920_78bj36hll6j8hgdi62864c0ele2f3_750x250.jpg", "https://s5.mogucdn.com/mlcdn/c45406/190920_0b68h5g0dkceb546557ad02iclk7a_750x250.jpg", "https://s5.mogucdn.com/mlcdn/c45406/190920_2df8d117e7g1b1ceafjjg4cc4gh4a_750x250.jpg", "https://s5.mogucdn.com/mlcdn/c45406/190920_1f8lhdai1d4d8ccfb4l55764k7lc2_750x251.jpg", "https://s11.mogucdn.com/mlcdn/c45406/190920_59hcj5j6aehd59122d3eg52lklkjd_750x250.jpg", "https://s5.mogucdn.com/mlcdn/c45406/190920_0a9dha0064f9k3715276ed8l37i93_750x250.jpg", "https://s11.mogucdn.com/mlcdn/c45406/190920_3e2467j0dgd31dhgd70aihdkhg49f_750x250.jpg", "https://s5.mogucdn.com/mlcdn/c45406/190920_8fage2lafgc4jfl63i48f99019h6c_750x251.jpg", "https://s5.mogucdn.com/mlcdn/c45406/190920_33285fi61l4beik6j80247789a8fk_750x250.jpg", "https://s11.mogucdn.com/mlcdn/c45406/190920_8bebiebka686298aj84fd45a30hk7_750x250.jpg", "https://s5.mogucdn.com/mlcdn/c45406/190920_82iea3700bfl4bl97e1li930c66bl_750x250.jpg", "https://s5.mogucdn.com/mlcdn/c45406/190920_38c42ijhf8fj01lblhc4i81ccj0a9_750x251.jpg", "https://s5.mogucdn.com/mlcdn/c45406/190920_099iff70c88435ge2k73kf2akkhfl_750x250.jpg", "https://s5.mogucdn.com/mlcdn/c45406/190920_7dc78d7ldiffkaci8i0ibk82c23g6_750x250.jpg", "https://s5.mogucdn.com/mlcdn/c45406/190920_43h1bk42d7he2ec0dci7dh8f4fghh_750x238.jpg", "https://s11.mogucdn.com/mlcdn/c45406/190920_0e281ge8edbd9f48l48c76ai3b2gd_750x239.jpg", "https://s11.mogucdn.com/mlcdn/c45406/190920_2bdl51b97l1240c1djag437f99h17_750x238.jpg", "https://s11.mogucdn.com/mlcdn/c45406/190920_5j1daggg5i46j7j9hidb04ek0efhd_750x238.jpg", "https://s5.mogucdn.com/mlcdn/c45406/190920_3ba306ajbhdf9lgdfc29l8dcldb8e_750x211.jpg", "https://s5.mogucdn.com/mlcdn/c45406/190920_85blb33bckakh5k4gl67fc1d974j0_750x211.jpg", "https://s5.mogucdn.com/mlcdn/c45406/190920_4lda8676deif8jkkid4h25la31hhf_750x211.jpg", "https://s11.mogucdn.com/mlcdn/c45406/190920_62gc2a75f6hjlhf48b40l3319k71h_750x211.jpg", "https://s5.mogucdn.com/mlcdn/c45406/190920_0h6510cbf49fa0481cj2e4k53fa6j_750x284.jpg", "https://s5.mogucdn.com/mlcdn/c45406/190920_7abifbi3ic98hdel3a02ljk9180ab_750x285.jpg", "https://s5.mogucdn.com/mlcdn/c45406/190920_0781iel00a1i7l7cg1j3lh0d95hd6_750x284.jpg", "https://s5.mogucdn.com/mlcdn/c45406/190920_2a75icdka4afkla4lhgb81hdh8989_750x284.jpg", "https://s11.mogucdn.com/mlcdn/c45406/190920_3l0262ec3hge3il2b6a04i99dg3e6_750x261.jpg", "https://s5.mogucdn.com/mlcdn/c45406/190920_15afdle5lecce7cb0ifd33g62a199_750x261.jpg", "https://s5.mogucdn.com/mlcdn/c45406/190920_5bk45lbjeb8lb6hfebkbf35j4230i_750x261.jpg", "https://s5.mogucdn.com/mlcdn/c45406/190920_29ahb0eblaj4e5jjdk1a9flg9ih54_750x261.jpg", "https://s11.mogucdn.com/mlcdn/c45406/190920_788le74ikhglj01f3b7hj4g6e0lc5_750x219.jpg", "https://s5.mogucdn.com/mlcdn/c45406/190920_124g7799611ge1ee598bi1a1jel0h_750x218.jpg", "https://s11.mogucdn.com/mlcdn/c45406/190920_6j1kiafid58e66dh45ig99j8lc82h_750x219.jpg", "https://s5.mogucdn.com/mlcdn/c45406/190920_00jhaj0g370ekh01680712136345l_750x218.jpg", "https://s5.mogucdn.com/mlcdn/c45406/190920_0k070ccgb6bdba78lcc46cihk162k_750x268.jpg", "https://s5.mogucdn.com/mlcdn/c45406/190920_50872hl49fge07d897d071jf0ad88_750x268.jpg", "https://s11.mogucdn.com/mlcdn/c45406/190920_1gk3154h8i4128ha5eg3a4lab8gf5_750x267.jpg", "https://s11.mogucdn.com/mlcdn/c45406/190920_4ah8lgfe3dg8dh6l6c9395ddg4h22_750x268.jpg", "https://s11.mogucdn.com/mlcdn/c45406/190920_1hll99a7i5hl3hklghl74fd1ic65l_750x154.jpg", "https://s5.mogucdn.com/mlcdn/c45406/190920_3hla085cllghhalhf62cf663hl3c8_750x154.jpg", "https://s11.mogucdn.com/mlcdn/c45406/190920_684lkkhlf6jkjc22g7kbb0k2baa11_750x154.jpg", "https://s11.mogucdn.com/mlcdn/c45406/190920_0gf61b71af9f2e6l54dlke900cif2_750x154.jpg", "https://s5.mogucdn.com/mlcdn/c45406/190920_38e44f474jl7a2fdk2bcfc4igjh2j_750x261.jpg", "https://s5.mogucdn.com/mlcdn/c45406/190920_83fd9j98e1fjg41ecf9c8d6h7bja9_750x261.jpg", "https://s5.mogucdn.com/mlcdn/c45406/190920_7f85213g09ljafc35058ggaij4145_750x261.jpg", "https://s5.mogucdn.com/mlcdn/c45406/190920_52jbe91efd5iheljdd0j3h34ldhf0_750x261.jpg", "https://s5.mogucdn.com/mlcdn/c45406/190920_658l3iij714ci7c0fkdl7i06lj9jf_750x211.jpg", "https://s11.mogucdn.com/mlcdn/c45406/190920_1jc55g507666d66g4kcj958154469_750x211.jpg", "https://s11.mogucdn.com/mlcdn/c45406/190920_567e15588gafe6h8d38f65ghilkda_750x211.jpg", "https://s5.mogucdn.com/mlcdn/c45406/190920_87a59d5k60fg1fe95271336ii04hl_750x211.jpg", "https://s5.mogucdn.com/mlcdn/c45406/190920_4lf1d5a6l8b58153dk3cacj96ckla_750x284.jpg", "https://s11.mogucdn.com/mlcdn/c45406/190920_717cdjfh6l77i4679hi7e52bia5gk_750x285.jpg", "https://s5.mogucdn.com/mlcdn/c45406/190920_3fd27li70lj5i9lahl95ai403ace6_750x284.jpg", "https://s11.mogucdn.com/mlcdn/c45406/190920_47ef7b4f5jk4a9dhb47d7i8lfdhbg_750x284.jpg", "https://s11.mogucdn.com/mlcdn/c024f5/190417_2d51ljj2a42lddkg49ibag494g3ca_1125x540.png"]
+				}]
+			},
+			"countdownInfo": {
+				"businessType": "NORMAL",
+				"isWarmUp": false,
+				"nowTime": 1590384200,
+				"countdown": 0,
+				"image": "",
+				"titleColor": "#FFFFFF",
+				"priceColor": "#FFFFFF",
+				"activityBanner": "",
+				"activityBannerLink": "",
+				"titleIcon": "",
+				"isHideRightCountdown": false,
+				"text": "",
+				"isCountdomShow": true,
+				"isPriceShow": false
+			},
+			"topImages": ["https://s5.mogucdn.com/mlcdn/c45406/190920_5k04il01eeeillbeheajj4j1j7451_3333x4999.jpg", "https://s5.mogucdn.com/mlcdn/c45406/190920_5k5lfg22h029d4l7dh9fdg6g0kja3_3333x4999.jpg", "https://s5.mogucdn.com/mlcdn/c45406/190920_01chj7b3d6ii7505j77d5e6c77l61_3333x4999.jpg", "https://s5.mogucdn.com/mlcdn/c45406/190920_554b0j97f1hcbk04adc1ad7cbhl0j_3333x4999.jpg"],
+			"normalShareInfo": {
+				"title": "闪亮黑色针织连衣裙2020春季新款中长款过膝后开叉长袖打底裙",
+				"content": "亲爱的～这件宝贝不错哦，快进来看看吧～",
+				"url": "//h5.mogu.com/detail-normal/index.html?itemId=1ml5fas&from=share",
+				"imageUrl": "https://s5.mogucdn.com/mlcdn/c45406/190920_5k04il01eeeillbeheajj4j1j7451_3333x4999.jpg"
+			},
+			"itemParams": {
+				"info": {
+					"set": {
+						"图案": "色块",
+						"裙型": "一步裙",
+						"颜色": "黑色连衣裙",
+						"腰型": "高腰",
+						"尺码": "S,XL,L,M",
+						"季节": "秋季",
+						"材质": "其他",
+						"组合形式": "单件",
+						"领型": "圆领",
+						"裙长": "中长裙（106-125cm）",
+						"袖长": "长袖",
+						"风格": "简约"
+					},
+					"key": "产品参数",
+					"anchor": "product_info"
+				},
+				"rule": {
+					"tables": [
+						[
+							["尺码", "裙长", "肩宽", "袖长"],
+							["S", "110", "37", "59"],
+							["M", "111", "38", "60"],
+							["L", "112", "39", "61"],
+							["XL", "113", "40", "62"]
+						]
+					],
+					"key": "尺码说明",
+					"anchor": "size_info",
+					"disclaimer": "※ 以上尺寸为实物人工测量，因测量方式不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。"
+				}
+			},
+			"normalPrice": {
+				"nowPrice": "49.99",
+				"oldPrice": "170.00",
+				"highNowPrice": "",
+				"priceSplit": "~",
+				"currency": "¥",
+				"priceColor": "#333333",
+				"priceTags": [{
+					"text": "特惠中",
+					"bgColor": "#FFE8EE",
+					"textColor": "#FF2255"
+				}],
+				"prePriceTag": {
+					"bgColor": "#FFE8EE",
+					"textColor": "#FF2255"
+				},
+				"eventPrice": "",
+				"eventPriceDesc": {
+					"bgColor": "#FFE8EE",
+					"textColor": "#FF2255"
+				},
+				"eventPriceColor": "#FF2255",
+				"eventTags": [],
+				"mobilePrice": "",
+				"mobileDownloadLink": "",
+				"eventDesc": "",
+				"extraDesc": ""
+			},
+			"itemServices": {
+				"services": [{
+					"name": "72小时发货",
+					"icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+					"content": "",
+					"link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=893"
+				}, {
+					"name": "7天无理由退货",
+					"icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+					"content": "物流签收后7天内买家可无理由退货，需满足退货条件",
+					"link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=892"
+				}, {
+					"name": "延误必赔",
+					"icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+					"content": "极速发货、送货保障，若发货时间晚于商家承诺时间或快递派送时间晚于平台标准，可获得延误补贴。"
+				}, {
+					"name": "退货补运费",
+					"icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+					"content": "用户发起退货且绑定提现银行卡，可获6-18元运费补贴",
+					"link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=927"
+				}, {
+					"name": "白付美分期购",
+					"icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+					"content": "白付美分期购：在我的钱包 →白付美页面开通即可使用分期购。本月消费，分3/6/12期还款，每月只还一点点，轻松享受大牌好货。（分12期只对部分用户开放。）"
+				}, {
+					"name": "全国包邮",
+					"icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+					"content": "",
+					"link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=895"
+				}],
+				"columns": [{
+					"name": "sales",
+					"desc": "销量 3344",
+					"icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+				}, {
+					"name": "express",
+					"desc": "免邮费",
+					"icon": "https://s10.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+				}]
+			},
+			"skuInfo": {
+				"itemId": "1ml5fas",
+				"img": "https://s5.mogucdn.com/mlcdn/c45406/190920_5k04il01eeeillbeheajj4j1j7451_3333x4999.jpg",
+				"isJdItem": false,
+				"title": "闪亮黑色针织连衣裙2020春季新款中长款过膝后开叉长袖打底裙",
+				"skus": [{
+					"stockId": "11baqie4",
+					"xdSkuId": "11baqie4",
+					"price": 17000,
+					"nowprice": 4999,
+					"img": "https://s11.mogucdn.com/mlcdn/c45406/190920_0i01afe6fcekbid5k7fd4hb57371f_3333x4999.jpg",
+					"currency": "¥",
+					"stock": 1379,
+					"style": "黑色连衣裙",
+					"color": "",
+					"size": "S",
+					"styleId": 1,
+					"sizeId": 100,
+					"insuranceMap": {
+						"10": [{
+							"skuId": 1429971634,
+							"actualPrice": 4999,
+							"insuranceCode": 10,
+							"insurancePrice": 250,
+							"sellerUserId": 442921819
+						}]
+					}
+				}, {
+					"stockId": "11baqie2",
+					"xdSkuId": "11baqie2",
+					"price": 17000,
+					"nowprice": 4999,
+					"img": "https://s11.mogucdn.com/mlcdn/c45406/190920_0i01afe6fcekbid5k7fd4hb57371f_3333x4999.jpg",
+					"currency": "¥",
+					"stock": 1172,
+					"style": "黑色连衣裙",
+					"color": "",
+					"size": "M",
+					"styleId": 1,
+					"sizeId": 101,
+					"insuranceMap": {
+						"10": [{
+							"skuId": 1429971633,
+							"actualPrice": 4999,
+							"insuranceCode": 10,
+							"insurancePrice": 250,
+							"sellerUserId": 442921819
+						}]
+					}
+				}, {
+					"stockId": "11baqidy",
+					"xdSkuId": "11baqidy",
+					"price": 17000,
+					"nowprice": 4999,
+					"img": "https://s11.mogucdn.com/mlcdn/c45406/190920_0i01afe6fcekbid5k7fd4hb57371f_3333x4999.jpg",
+					"currency": "¥",
+					"stock": 1351,
+					"style": "黑色连衣裙",
+					"color": "",
+					"size": "L",
+					"styleId": 1,
+					"sizeId": 102,
+					"insuranceMap": {
+						"10": [{
+							"skuId": 1429971631,
+							"actualPrice": 4999,
+							"insuranceCode": 10,
+							"insurancePrice": 250,
+							"sellerUserId": 442921819
+						}]
+					}
+				}, {
+					"stockId": "11baqie0",
+					"xdSkuId": "11baqie0",
+					"price": 17000,
+					"nowprice": 4999,
+					"img": "https://s11.mogucdn.com/mlcdn/c45406/190920_0i01afe6fcekbid5k7fd4hb57371f_3333x4999.jpg",
+					"currency": "¥",
+					"stock": 1529,
+					"style": "黑色连衣裙",
+					"color": "",
+					"size": "XL",
+					"styleId": 1,
+					"sizeId": 103,
+					"insuranceMap": {
+						"10": [{
+							"skuId": 1429971632,
+							"actualPrice": 4999,
+							"insuranceCode": 10,
+							"insurancePrice": 250,
+							"sellerUserId": 442921819
+						}]
+					}
+				}],
+				"props": [{
+					"label": "颜色",
+					"list": [{
+						"default": false,
+						"styleId": 1,
+						"name": "黑色连衣裙",
+						"index": 1,
+						"type": "style"
+					}],
+					"isDefault": false
+				}, {
+					"label": "尺码",
+					"list": [{
+						"sizeId": 100,
+						"default": false,
+						"name": "S",
+						"index": 100,
+						"type": "size"
+					}, {
+						"sizeId": 101,
+						"default": false,
+						"name": "M",
+						"index": 101,
+						"type": "size"
+					}, {
+						"sizeId": 102,
+						"default": false,
+						"name": "L",
+						"index": 102,
+						"type": "size"
+					}, {
+						"sizeId": 103,
+						"default": false,
+						"name": "XL",
+						"index": 103,
+						"type": "size"
+					}],
+					"isDefault": false
+				}],
+				"styleKey": "颜色",
+				"sizeKey": "尺码",
+				"priceRange": "¥49.99",
+				"defaultPrice": "¥49.99",
+				"totalStock": 5431,
+				"canInstallment": false,
+				"addressInfo": {}
+			}
+		}
+	},
+	"needHeaderCookie": false
+}
